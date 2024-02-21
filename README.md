@@ -10,3 +10,5 @@ References List:
 - https://www.freecodecamp.org/news/
 - https://thehackernews.com/
 - https://news.ycombinator.com/
+- https://daily.dev
+- https://dev.to
